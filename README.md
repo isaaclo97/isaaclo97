@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>PhD in Information & Communication Technologies · Cum Laude & International Mention</em><br/>
-  <strong>Profesor Ayudante Doctor @ URJC · Researcher @ GRAFO</strong>
+  <strong>Profesor Ayudante Doctor URJC · Researcher GRAFO</strong>
 </p>
 
 <p align="center">
@@ -64,15 +64,6 @@ I completed my PhD (2020–2024) with *Cum Laude* distinction and *International
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaaclo97&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclo97&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ## 📄 Publications
 
 > 15 indexed articles (journals + conferences) · **4 Q1** (WoS or Scopus) · publications in *European Journal of Operational Research*, *Knowledge-Based Systems*, *Expert Systems with Applications*, *IEEE Transactions on Education* and more
@@ -89,8 +80,8 @@ I completed my PhD (2020–2024) with *Cum Laude* distinction and *International
 ## 🏆 Awards & Achievements
 
 - 🥇 **Best Student Paper** — MAEB 2024 / CAEPIA (A Coruña)
-- 🥇 **CTF Winner** — JNIC 2024 & JNIC 2022 (INCIBE)
-- 🥉 **3rd Place CTF** — JNIC 2023 (INCIBE)
+- 🥇 **CTF Winner** — JNIC 2024 & JNIC 2022
+- 🥉 **3rd Place CTF** — JNIC 2023
 - 🏅 **Finalist** — V & IV National Cyberleague, Guardia Civil (2023, 2022)
 - 🌍 **Huawei Training Camp** in Shenzhen, China (2023)
 - 🥇 **Winner** — II National CyberLeague, Guardia Civil (2020)
@@ -116,38 +107,11 @@ Beyond academia, I build products at the intersection of tech and real-world imp
 
 ## 🎤 Speaking & Community
 
-- 🗣️ **Ponente en RootedCON Madrid 2026** — one of Spain's most prestigious cybersecurity conferences (16th edition, 10 000+ attendees)
-- 🏫 **Director & Organizer** — AdaByron competitive programming contest (2020–2024)
+- 🗣️ **Ponente en RootedCON Madrid 2026** — one of Spain's most prestigious cybersecurity conferences (16th edition, 5 000+ attendees)
+- 🏫 **Director / Organizer** — AdaByron competitive programming contest (2020–2024)
 - 🏋️ **SWERC–ICPC Coach** — trained URJC teams for the SW European programming championship
 - 🌙 **Noche Europea de los Investigadores & Semana de la Ciencia** — Python competitive programming workshops & Android development sessions
 - 👮 **CTF-Uni-Madrid** — co-organiser of the university CTF community ([@CTF-Uni-Madrid](https://github.com/CTF-Uni-Madrid))
-
----
-
-## 🔬 Research Projects & Technology Transfer
-
-**Research Projects**
-
-| Period | Project | Funding Body | Budget |
-|--------|---------|--------------|--------|
-| 2025–2028 | Nueva metodología holística para metaheurísticas (continuación) | AEI — *PID2024-156045NB-I00* | 124 250 € |
-| 2025–2028 | Proyecto Comunidad de Madrid | Comunidad de Madrid — *TEC-2024/COM-404* | 187 585 € |
-| 2024–2026 | Proyecto European Commission | European Commission — *2024-1-NL01-KA220-SCH-000248233* | 46 600 € |
-| 2025 | Proyecto URJC | URJC — *2024/SOLCON-64631* | 22 618 € |
-| 2022–2024 | Nueva metodología holística para la configuración, comparación y evaluación de metaheurísticas | AEI — *PID2021-126605NB-I00* | 127 171 € |
-| 2023 | CONECTAS — Conjunto de datos en castellano para análisis del discurso de odio | URJC Proyectos Puente — *M2992* | 4 865 € |
-| 2019–2022 | Metaheurísticas eficientes para la optimización en grafos | MINECO — *PGC2018-095322-B-C22* | 73 810 € |
-| 2019–2022 | CYNAMON — Cybersecurity, Network Analysis & Monitoring | MAEYTD — *P2018/TCS-4566* | 152 431 € |
-| 2019–2022 | Investigación y desarrollo de tecnologías educativas en la Comunidad de Madrid | Comunidad de Madrid — *S2018/TCS-4307* | 67 850 € |
-
-**Technology Transfer (Art. 60 / 83)**
-
-| Year | Project | Partner | Role | Budget |
-|------|---------|---------|------|--------|
-| 2025 | Optimizing short- and long-term truck & barge routing in oil logistics | Better Business Analytics, LLC | Researcher | 56 059 € |
-| 2024 | Optimization of production through lot-sizing & scheduling on parallel lines | Better Business Analytics, LLC | Researcher | 31 716 € |
-| 2024 | **Optimización de la preparación en ajedrez para jugadores de alto nivel mediante IA** | Federación Española de Ajedrez | **Principal Investigator** | 40 000 € |
-| 2019–2020 | Algoritmo de optimización de localización de placas solares | RatedPower S.L. *(sold for €60M in 2022)* | Researcher | 6 251 € |
 
 ---
 
